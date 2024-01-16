@@ -11,7 +11,7 @@ const Hero = () => {
         <div>
           <motion.h1 
           initial={{opacity: 0, translateX: -50}} whileInView={{opacity: 1, translateX: 0}} viewport={{once: true}} transition={{ duration: 1.0, delay:  0.2}}
-          className='regular-40 py-5'>Portfolio</motion.h1>
+          className='regular-40 py-5'>References</motion.h1>
           <motion.p 
           initial={{opacity: 0, translateX: -100}} whileInView={{opacity: 1, translateX: 0}} viewport={{once: true}} transition={{ duration: 1.0, delay:  0.3}}
           className='text-gray-950 pb-5'>I have had the privilege of working with a diverse range of clients and delivering exceptional digital products that drive success. Also I have some previous projects that worth showing our skills.</motion.p>
