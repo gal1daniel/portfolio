@@ -1,13 +1,5 @@
 export const REFERENCES = [
     {
-      src: '/references/socialcheese.png',
-      title: 'Social Cheese',
-      link: 'https://www.socialcheese.hu',
-      description:
-        "The modern and professional portfolio website created for the Equipment Rental and Creative Content Production Company provides a dynamic and streamlined user experience, while focusing on highlighting the services and tools offered by the company. The website aims to showcase the client portfolio, emphasize the company's expertise and creativity, and present truly valuable content for the clients.",
-        project: 'NextJS, React, TailwindCSS'
-    },
-    {
       src: '/references/fulop.png',
       title: 'Fulop Testverek Kft.',
       link: 'https://www.fuloptestverek.hu',
@@ -50,7 +42,7 @@ export const REFERENCES = [
     {
       src: '/references/webeka.png',
       title: 'Webeka',
-      link: 'https://webeka-8unrfncft-gal1daniels-projects.vercel.app/',
+      link: 'https://webeka-hy0yxm1ph-gal1daniels-projects.vercel.app/',
       description:
         "For Webeka, I created a modern and professional website that showcases the company's reference works, details its services, and provides an opportunity for visitors to contact them through a fully functional form. The website includes a detailed contact form that allows interested parties to easily get in touch with the company.",
         project: 'NextJS, React, TailwindCSS'
