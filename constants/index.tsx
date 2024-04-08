@@ -2,7 +2,7 @@ export const REFERENCES = [
     {
       src: '/references/fulop.png',
       title: 'Fulop Testverek Kft.',
-      link: 'https://www.fuloptestverek.hu',
+      link: 'https://www.hazepitokkft.hu',
       description:
         "The modern and professional portfolio website created for the Construction Company aims to highlight the company's construction projects and services. The completed website provides a dynamic and responsive experience while showcasing the company's expertise, commitment, and previous successful projects. I strived to implement a minimalist UI/UX design that reflects the style of houses and the company.",
         project: 'Quasar, Vue',
