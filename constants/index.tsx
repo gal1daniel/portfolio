@@ -16,6 +16,14 @@ export const REFERENCES = [
         project: 'Quasar, Vue',
     },
     {
+      src: '/references/apple.png',
+      title: 'iPhone 15 App',
+      link: 'https://apple-pnhd0zy4o-gal1daniels-projects.vercel.app',
+      description:
+        "Step into the future with my iPhone 15 Apple-inspired website, built using Vite and Three.js. Experience the seamless navigation and stunning 3D visuals as you explore the sleek design and innovative features of the iPhone 15. Welcome to a digital realm where technology meets elegance, inspired by Apple's iconic style.",
+        project: 'ThreeJS, React, TailwindCSS'
+    },
+    {
       src: '/references/travel.png',
       title: 'Travel App',
       link: 'https://travel-4sr1jvqf5-gal1daniels-projects.vercel.app/',
