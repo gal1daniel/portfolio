@@ -1,5 +1,13 @@
 export const REFERENCES = [
     {
+      src: '/references/utonallo.png',
+      title: 'Utonallo Burger',
+      link: 'https://utonalloburger-56k3fjq97-gal1daniels-projects.vercel.app',
+      description:
+        "In this project, I developed a burger website that features a dynamic menu with search and sorting capabilities, enhancing the customer experience and making it easier to navigate the offerings. I captured and edited all food photos and web graphic assets to create a visually appealing and cohesive design that complements the website's modern aesthetic. By utilizing Next.js and Tailwind, I ensured fast performance and a smooth user experience. This project showcases my expertise in both front-end development and design, creating an engaging culinary journey for users.",
+        project: 'Nextjs, TailwindCSS, React',
+    },
+    {
       src: '/references/fulop.png',
       title: 'Fulop Testverek Kft.',
       link: 'https://www.hazepitokkft.hu',
